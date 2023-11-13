@@ -2,6 +2,7 @@
 ### Contexto
 Uma empresa de e-commerce a decidiu levantar os indicadores de recência, frequência e ticket médio (RFM) dos seus clientes.
 RFM:
+|-------------|------------------------------------------|
 R (Recency): Tempo que o cliente realizou a última compra (em dias)
 F (Frequency): Quantidade de compras realizadas pelo cliente
 M (Monetary): Valor do ticket médio gasto pelo cliente
