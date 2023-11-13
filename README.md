@@ -25,7 +25,7 @@ A tabela contém informações de compras de um e-commerce em 37 países. Conté
 | UnitPrice   | Preço unitário do produto                |
 
 ### Objetivo
-Desenvolva o algoritmo para receber o arquivo csv de entrada e retornar um algoritmo
+Desenvolver um algoritmo para receber o arquivo csv de entrada e retornar um algoritmo
 de saída com as seguintes colunas:
 CustomerID: Código do cliente  
 R: Recência  
